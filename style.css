@@ -1,0 +1,70 @@
+body {
+    background-image:url("plant.jpg");
+    background-size: cover;
+    background-color: white;
+    opacity: 80%; 
+    margin-right: 40px;
+    padding: 20px;
+    background-position: bottom right;
+    text-align: right;
+}
+h1 {
+    font-size: 90px;
+    font-family:'Aboreto';
+    color: rgb(194, 64, 64);
+    font-weight: lighter;
+    padding-top: 160px;
+    margin-bottom: 0px;
+}
+h5 {
+    font-weight: lighter;
+    padding-top: 10px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    color: rgb(184, 166, 130); 
+    padding-bottom: 10px;  
+    }
+h2{
+    color: rgb(68, 100, 81);
+
+}
+.subtitulo {
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    font-weight: light;
+    color: rgb(161, 144, 111); 
+    padding: 0px;
+    margin-top: 5px;
+}
+.linksite {
+    padding: 10px 05px; 
+    background-color:rgb(161, 144, 111);
+    color:white;
+    line-height: 15px;
+    text-decoration: none;
+}
+
+p {
+    text-decoration: none;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    color: rgb(161, 144, 111); 
+    text-align: right;
+    padding: 0px;
+}
+.botaowhats {
+    text-decoration: none;
+    background-color:rgb(68, 100, 81);
+    padding: 15px 10px;
+    color: white;
+    font-family: 'Aboreto';
+    font-size: 35px;
+}
+.fa-brands fa-instagram {
+    color: black;
+}
+@media (max-width: 640px)
