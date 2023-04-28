@@ -64,7 +64,11 @@ p {
     font-family: 'Aboreto';
     font-size: 35px;
 }
-.fa-brands fa-instagram {
-    color: black;
+span {
+    color:rgb(68, 100, 81);
 }
+div {
+    margin-top: 60px;
+    font-size: 30px;
+    }
 @media (max-width: 640px)
