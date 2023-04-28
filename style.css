@@ -66,8 +66,10 @@ p {
 }
 span {
     color:rgb(68, 100, 81);
+    background-color: white;
 }
 div {
     margin-top: 40px;
     font-size: 30px;
+    margin-bottom: 0px;
     }
